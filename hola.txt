@@ -1,2 +1,4 @@
 este es el primer mensaje escrito desde la bnelson
 esta es la prueba de fuego del conflicto
+creo que hubo auto merge, segunda prueba!
+tercera prueba!
